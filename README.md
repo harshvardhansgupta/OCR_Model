@@ -24,5 +24,5 @@ This model demonstrates a powerful approach to handwriting recognition, making i
 * **`OCR_model.ipynb`:** The primary notebook for model training and experimentation.
 * **`Predictor.ipynb`:** A notebook demonstrating how to use the trained model to extract text from new images.
 * **`ocr_model_saved.keras`:** The saved, trained model for deployment.
-* **`Documentation.pdf`:** Detailed documentation on the project, including model architecture, training process, and usage instructions.
+* **`Documentation.pdf`:** Detailed documentation on the project, including model architecture, training process.
 * **`test_image.png`:** A sample image used for testing the model's performance.
